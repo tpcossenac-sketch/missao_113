@@ -1,0 +1,23 @@
+[
+    {
+        "src": "img/clique.png",
+        "sizes": "1280x720",
+        "type": "image/png",
+        "label": "Clicando"
+    },
+
+    {
+        "src": "img/gravando.png",
+        "sizes": "1280x720",
+        "type": "image/png",
+        "label": "Gravando"
+    },
+
+    {
+        "src": "img/gravacao_concluida.png",
+        "sizes": "1280x720",
+        "type": "image/png",
+        "label": "Gravação Concluída"
+    }
+    
+]
