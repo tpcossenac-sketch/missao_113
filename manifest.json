@@ -1,23 +1,77 @@
-[
+{
+
+  "name": "Simulador de Gravador de Áudio",
+
+  "short_name": "Gravador",
+
+  "description": "Simule a gravação de áudio com um clique e segure.",
+
+  "start_url": "/missao113/",
+
+  "scope": "/missao113/",
+
+  "id": "/missao113/",
+
+  "display": "standalone",
+
+  "background_color": "#121212",
+
+  "theme_color": "#121212",
+
+  "lang": "pt-BR",
+
+  "orientation": "portrait",
+
+  "icons": [
+
     {
-        "src": "img/clique.png",
-        "sizes": "1280x720",
-        "type": "image/png",
-        "label": "Clicando"
+
+      "src": "MIC_192.png",
+
+      "sizes": "192x192",
+
+      "type": "image/png",
+
+      "purpose": "any"
+
     },
 
     {
-        "src": "img/gravando.png",
-        "sizes": "1280x720",
-        "type": "image/png",
-        "label": "Gravando"
+
+      "src": "MIC_512.png",
+
+      "sizes": "512x512",
+
+      "type": "image/png",
+
+      "purpose": "any"
+
     },
 
     {
-        "src": "img/gravacao_concluida.png",
-        "sizes": "1280x720",
-        "type": "image/png",
-        "label": "Gravação Concluída"
+
+      "src": "MIC_192.png",
+
+      "sizes": "192x192",
+
+      "type": "image/png",
+
+      "purpose": "maskable"
+
+    },
+
+    {
+
+      "src": "MIC_512.png",
+
+      "sizes": "512x512",
+
+      "type": "image/png",
+
+      "purpose": "maskable"
+
     }
-    
-]
+
+  ]
+
+}
